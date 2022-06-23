@@ -1,0 +1,17 @@
+C:\desktop\SecondTryOnion\DomainService\bin\Debug\net6.0\DomainService.deps.json
+C:\desktop\SecondTryOnion\DomainService\bin\Debug\net6.0\DomainService.runtimeconfig.json
+C:\desktop\SecondTryOnion\DomainService\bin\Debug\net6.0\DomainService.dll
+C:\desktop\SecondTryOnion\DomainService\bin\Debug\net6.0\DomainService.pdb
+C:\desktop\SecondTryOnion\DomainService\bin\Debug\net6.0\DomainLayer.dll
+C:\desktop\SecondTryOnion\DomainService\bin\Debug\net6.0\DomainLayer.pdb
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.csproj.AssemblyReference.cache
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.GeneratedMSBuildEditorConfig.editorconfig
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.AssemblyInfoInputs.cache
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.AssemblyInfo.cs
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.csproj.CoreCompileInputs.cache
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.csproj.CopyComplete
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.dll
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\refint\DomainService.dll
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.pdb
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\DomainService.genruntimeconfig.cache
+C:\desktop\SecondTryOnion\DomainService\obj\Debug\net6.0\ref\DomainService.dll
